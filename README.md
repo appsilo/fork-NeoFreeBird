@@ -7,7 +7,7 @@
 <br>
 
 > [!WARNING]  
-> <b>Please do not create issues regarding sign in or Tweeting.</b><br>Twitter/X have added Attestation to prevent the use of third-paty or modified clients. We cannot do anything against this. Please do not create new issues regarding this. 
+> <b>This repository has been archived. All further development has been moved to the [NeoFreeBird/app](https://github.com/NeoFreeBird/app) repository.
 
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
